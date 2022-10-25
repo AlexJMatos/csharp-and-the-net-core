@@ -1,0 +1,15 @@
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\HelloCS.exe
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\HelloCS.deps.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\HelloCS.runtimeconfig.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\HelloCS.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\bin\Debug\net6.0\HelloCS.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfo.cs
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\refint\HelloCS.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\HelloCS.genruntimeconfig.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\Code\Chapter01-vscode\HelloCS\obj\Debug\net6.0\ref\HelloCS.dll
