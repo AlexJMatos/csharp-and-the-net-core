@@ -1,0 +1,15 @@
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\bin\Debug\net6.0\Exercise3.exe
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\bin\Debug\net6.0\Exercise3.deps.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\bin\Debug\net6.0\Exercise3.runtimeconfig.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\bin\Debug\net6.0\Exercise3.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\bin\Debug\net6.0\Exercise3.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.csproj.AssemblyReference.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfo.cs
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\refint\Exercise3.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\Exercise3.genruntimeconfig.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter02-vscode\Exercise3\obj\Debug\net6.0\ref\Exercise3.dll
