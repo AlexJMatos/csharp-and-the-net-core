@@ -1,0 +1,15 @@
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.exe
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\bin\Debug\net6.0\Operators.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\refint\Operators.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter03-vscode\Operators\obj\Debug\net6.0\ref\Operators.dll

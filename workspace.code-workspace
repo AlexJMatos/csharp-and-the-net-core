@@ -5,6 +5,12 @@
         },
         {
             "path": "Code/Chapter02-vscode"
+        },
+        {
+            "path": "Code/Chapter03-vscode"
+        },
+        {
+            "path": "Code/Chapter05-vscode"
         }
     ]
 }
