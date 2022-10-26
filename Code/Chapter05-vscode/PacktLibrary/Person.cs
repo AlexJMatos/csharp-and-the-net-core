@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace Packt.Shared
 {
 
-    public class Person
+    public partial class Person
     {
         public string Name;
         public DateTime DateOfBirth;
@@ -85,6 +85,18 @@ namespace Packt.Shared
             command,
             number,
             active);
+        }
+
+        public void PassingParameters(int x, ref int y, out int z)
+        {
+            // out parameters cannot have a default
+            // AND must be initialized inside the method
+            z = 99;
+
+            // increment each parameter
+            x++;
+            y++;
+            z++;
         }
     }
 }
