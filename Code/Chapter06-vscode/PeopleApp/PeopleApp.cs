@@ -68,3 +68,38 @@ lookupIntString.Add(key: 4, value: "Delta");
 
 key = 3;
 WriteLine(format: "Key {0} has value: {1}", key, lookupIntString[key]);
+
+Person[] people =
+{
+    new Person(){Name = "Simon"},
+    new Person(){Name = "Jenny"},
+    new Person(){Name = "Adam"},
+    new Person(){Name = "Richard"}
+};
+
+WriteLine("Initial list of people: ");
+foreach (Person p in people)
+{
+    WriteLine($"\t{p.Name}");
+}
+
+WriteLine("Use Person's IComparable implementation to sort: ");
+Array.Sort(people);
+
+foreach (Person p in people)
+{
+    WriteLine($"\t{p.Name}");
+}
+
+WriteLine("Use PersonComparer's IComparer implementation to sort:");
+Array.Sort(people, new PersonComparer());
+foreach (Person p in people)
+{
+    WriteLine($"\t{p.Name}");
+}
+
+
+DisplacementVector dv1 = new(3, 5);
+DisplacementVector dv2 = new(-2, 7);
+DisplacementVector dv3 = dv1 + dv2;
+WriteLine($"({dv1.x}, {dv1.y}) + ({dv2.x}, {dv2.y}) = ({dv3.x},{dv3.y})");

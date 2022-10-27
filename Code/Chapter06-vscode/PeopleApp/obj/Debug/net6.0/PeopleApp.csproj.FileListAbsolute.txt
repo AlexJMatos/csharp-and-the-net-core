@@ -16,3 +16,21 @@ C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-an
 C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
 C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
 C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\bin\Debug\net6.0\PeopleApp.exe
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\bin\Debug\net6.0\PeopleApp.deps.json
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\bin\Debug\net6.0\PeopleApp.runtimeconfig.json
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\bin\Debug\net6.0\PeopleApp.dll
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\bin\Debug\net6.0\PeopleApp.pdb
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\bin\Debug\net6.0\PacktLibrary.dll
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\bin\Debug\net6.0\PacktLibrary.pdb
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.AssemblyReference.cache
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.AssemblyInfoInputs.cache
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.AssemblyInfo.cs
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CoreCompileInputs.cache
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CopyComplete
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.dll
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\refint\PeopleApp.dll
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
+D:\Alexjmatos\C#\C# and .NET Core\Code\Chapter06-vscode\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll

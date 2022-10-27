@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 
 namespace Packt.Shared;
-public class Person
+public class Person : IComparable<Person>
 {
     // fields
     public string? Name;
@@ -75,6 +75,12 @@ public class Person
     public int MethodIWantToCall(string input)
     {
         return input.Length;
+    }
+
+    public int CompareTo(Person? other)
+    {
+        if (Name is null) return 0;
+        return Name.CompareTo(other?.Name);
     }
 }
 
