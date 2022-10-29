@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PNeDSoPQOPimh5TcZPIdsxmFBpuuMmgq6griGnkygGw6tYVBSAeM28GyCdWHHORaZqh4m+9SEexiZ9HRHqJsDg==",
+  "dgSpecHash": "cFIG3e4Ku5K5vyMdWITVjj+woHyaCUJ2GZ3ri6mI0+dgDWjMFPATlOQqW56QVx5VQCOFwxg1VudzbeF+mxnXwg==",
   "success": true,
-  "projectFilePath": "D:\\Alexjmatos\\C#\\C# and .NET Core\\Code\\Chapter06-vscode\\NullHandling\\NullHandling.csproj",
+  "projectFilePath": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter06-vscode\\NullHandling\\NullHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
