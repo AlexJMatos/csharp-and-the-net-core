@@ -27,34 +27,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alexj\\.nuget\\packages\\": {}
+    "C:\\Users\\Ksquare\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alexjmatos\\C#\\C# and .NET Core\\Code\\Chapter06-vscode\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter06-vscode\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "D:\\Alexjmatos\\C#\\C# and .NET Core\\Code\\Chapter06-vscode\\PeopleApp\\PeopleApp.csproj",
-      "packagesPath": "C:\\Users\\alexj\\.nuget\\packages\\",
-      "outputPath": "D:\\Alexjmatos\\C#\\C# and .NET Core\\Code\\Chapter06-vscode\\PeopleApp\\obj\\",
+      "projectPath": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter06-vscode\\PeopleApp\\PeopleApp.csproj",
+      "packagesPath": "C:\\Users\\Ksquare\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter06-vscode\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alexj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ksquare\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Alexjmatos\\C#\\C# and .NET Core\\Code\\Chapter06-vscode\\PacktLibrary\\PacktLibrary.csproj": {
-              "projectPath": "D:\\Alexjmatos\\C#\\C# and .NET Core\\Code\\Chapter06-vscode\\PacktLibrary\\PacktLibrary.csproj"
+            "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter06-vscode\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter06-vscode\\PacktLibrary\\PacktLibrary.csproj"
             }
           }
         }

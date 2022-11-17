@@ -1,0 +1,15 @@
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.exe
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.deps.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.runtimeconfig.json
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\bin\Debug\net6.0\AssembliesAndNamespaces.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.AssemblyReference.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\refint\AssembliesAndNamespaces.dll
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.pdb
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\AssembliesAndNamespaces.genruntimeconfig.cache
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\AssembliesAndNamespaces\obj\Debug\net6.0\ref\AssembliesAndNamespaces.dll

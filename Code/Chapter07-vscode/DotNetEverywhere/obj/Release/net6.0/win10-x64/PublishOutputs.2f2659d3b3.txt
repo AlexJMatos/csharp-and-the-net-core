@@ -1,0 +1,1 @@
+C:\Users\Ksquare\OneDrive - The Ksquare Group\Desktop\C# and .NET Core\csharp-and-the-net-core\Code\Chapter07-vscode\DotNetEverywhere\bin\Release\net6.0\win10-x64\publish\DotNetEverywhere.exe

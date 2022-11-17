@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FvBaZeShgzCt/uRKMtPYaSa6tGqfF6Gyd6T89kCugn06+K7vnA9NzVq5+CBX0KiVSJVQIpNtaZ35GKxHgEQCdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter07-vscode\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ksquare\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ksquare\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

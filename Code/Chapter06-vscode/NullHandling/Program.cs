@@ -46,6 +46,27 @@ john.EmployeeCode = "JJ001";
 john.HireDate = new(year: 2014, month: 11, day: 23);
 WriteLine($"{john.Name} was hired on {john.HireDate:dd/MM/yy}");
 
+try
+{
+    john.TimeTravel(when: new(1999, 12, 31));
+    john.TimeTravel(when: new(1950, 12, 25));
+}
+catch (PersonException ex)
+{
+    WriteLine(ex.Message);
+}
+
+string email1 = "pamela@test.com";
+string email2 = "ian&test.com";
+
+WriteLine("{0} is a valid e-mail address: {1}",
+email1,
+StringExtensions.IsValidEmail(email1));
+
+WriteLine("{0} is a valid e-mail address: {1}",
+email2,
+StringExtensions.IsValidEmail(email2));
+
 class Address
 {
     public string? Building = string.Empty;
@@ -53,3 +74,4 @@ class Address
     public string City = string.Empty;
     public string Region = string.Empty;
 }
+

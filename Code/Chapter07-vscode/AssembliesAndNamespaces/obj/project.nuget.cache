@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6FkJOQ3nrARZsym9nNjbAyLGmpclkKsT0VH+ZShkvV9ja6+dGjYr9qhuLRsAKiEd4+STB67J6J7ThjFucUChkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter07-vscode\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ksquare\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

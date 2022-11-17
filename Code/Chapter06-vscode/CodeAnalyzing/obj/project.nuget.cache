@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SIcuGcZv6WPALfar/x6XNA8ciYWVPVEQyhc93z7bAwrO3Meacr3Kl8fvyKXZJV90iGybJ9hP4zIiHtXJTFxQKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ksquare\\OneDrive - The Ksquare Group\\Desktop\\C# and .NET Core\\csharp-and-the-net-core\\Code\\Chapter06-vscode\\CodeAnalyzing\\CodeAnalyzing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ksquare\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Ksquare\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
